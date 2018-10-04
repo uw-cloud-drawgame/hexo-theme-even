@@ -3,7 +3,7 @@
 # ===========================================
 
 # Site creation time
-since: 2015
+since: 2018
 
 # Custom your favicon.ico in `site/source`
 favicon: /favicon.ico
@@ -11,7 +11,7 @@ favicon: /favicon.ico
 # Set feed link (false | default | your feed link)
 # false: disable
 # default: use `atom.xml`, generator for `hexo-generator-feed`
-rss: default
+rss: false
 
 # ===========================================
 # Menu Settings
@@ -27,7 +27,7 @@ menu:
 # Theme Settings
 # ===========================================
 # color: default | mint green | cobalt blue | hot pink | dark violet
-color: default
+color: Cobalt Blue
 
 # default page mode: default | archives
 mode: default
@@ -35,14 +35,14 @@ mode: default
 toc: true
 
 # jQuery fancybox
-fancybox: true
+fancybox: false
 
 pjax: true
 
 copyright:
-  enable: true
+  enable: false
   # https://creativecommons.org/
-  license: '<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">知识共享署名-非商业性使用 4.0 国际许可协议</a>'
+  license: 
 
 reward:
   enable: false
@@ -54,13 +54,13 @@ reward:
 # Social links Settings
 # ===========================================
 social:
-  email: your@email.com
+  email:
   stack-overflow:
   twitter:
   facebook:
   linkedin:
   google:
-  github: https://github.com/ahonn
+  github: https://github.com/uw-cloud-drawgame
   weibo:
   zhihu:
   douban:
